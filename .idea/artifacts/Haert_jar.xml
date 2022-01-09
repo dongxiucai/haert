@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Haert:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Haert_jar</output-path>
+    <root id="archive" name="Haert_jar.jar">
+      <element id="archive" name="Haert.jar">
+        <element id="module-output" name="Haert" />
+        <element id="library" level="project" name="jl1.0" />
+      </element>
+    </root>
+  </artifact>
+</component>
